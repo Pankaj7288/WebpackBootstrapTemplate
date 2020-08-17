@@ -1,6 +1,6 @@
-# webpackbootstraptemplate
+# Webpack Bootstrap Template
 
-Empty project.
+Webpack Bootstrap Empty project with Pankaj & Satu Samonty.
 
 ## Building and running on localhost
 
@@ -25,9 +25,15 @@ npm run build-dev
 ## Running
 
 ```sh
-node dist/bundle.js
+npm run start
+```
+
+## Remove dist
+
+```sh
+npm run clean
 ```
 
 ## Credits
 
-Made with [createapp.dev](https://createapp.dev/)
+Made with [Satu Samonty Biswas](https://www.facebook.com/samontybiswas/)
