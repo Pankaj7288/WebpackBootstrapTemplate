@@ -4,31 +4,31 @@ Webpack Bootstrap Empty project with Pankaj & Satu Samonty.
 
 ## Building and running on localhost
 
-First install dependencies:
+### First install dependencies:
 
 ```sh
 npm install
 ```
 
-To create a production build:
+### To create a production build:
 
 ```sh
 npm run build-prod
 ```
 
-To create a development build:
+### To create a development build:
 
 ```sh
 npm run build-dev
 ```
 
-## Running
+## To Run Webpack Dev Server:
 
 ```sh
 npm run start
 ```
 
-## Remove dist
+## To Remove dist Folder:
 
 ```sh
 npm run clean
@@ -36,4 +36,4 @@ npm run clean
 
 ## Credits
 
-Made with [Satu Samonty Biswas](https://www.facebook.com/samontybiswas/)
+Made with [Satu Samonty Biswas](https://www.facebook.com/SatuSamontyBiswas/)
